@@ -1,1 +1,1 @@
-Linux Terminal Commands For APT
+This repository is for linux commands there will be a MD file for each kind APT, DNF....etc, so if you would like to collaberate with this let me know via email ita in my profile. I only have One rule and they must be safe commands.
